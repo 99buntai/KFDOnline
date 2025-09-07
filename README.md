@@ -7,13 +7,13 @@ Compliant with P25 standards (TIA-102.AACD-A).
 **[Try it out here](https://kvlonline.up.railway.app)**
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/c1d07cd4-2cd5-4f14-9a95-434fb9401882 alt="demo" width="75%">
+  <img src="https://github.com/user-attachments/assets/c1d07cd4-2cd5-4f14-9a95-434fb9401882" alt="demo" width="75%">
 </p>
 
 
 
 
-## What's New in This Version
+## What's New in This Version.
 
 - **Automatic Error Recovery**: Handles stuck radio states automatically
 - **Enhanced Performance**: Optimized communication with reduced timeouts
