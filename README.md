@@ -152,7 +152,7 @@ npm run build
 
 ## 📄 License & credits
 
-MIT License - see [LICENSE](./LICENSE) for details.
+MIT License - see [LICENSE](LICENSE) for details.
 
 ### Open Source Components
 - **[KFDweb](https://github.com/grover556/KFDweb)** - MIT License
